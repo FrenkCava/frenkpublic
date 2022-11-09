@@ -1,0 +1,3 @@
+#Dropdown to choose Tenant in Login Page (ABP.IO)
+Hi, it would be nice if in login page we ca choose tenant with a dropdown list instead of writing tenant name in a text field.
+I tried to create a Custom Login Page (based on login page) but can't find the file where to change tenant selection...
